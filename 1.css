@@ -15,3 +15,7 @@ h1 {
 .right {
   float: right;
 }
+
+.image img {
+  width: 400px;
+}
